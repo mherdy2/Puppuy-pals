@@ -1,2 +1,2 @@
-# Puppuy-pals
+# Puppy-pals
 block 24
